@@ -25,5 +25,6 @@ public class Main {
         System.out.println(baseCurrency);
         System.out.println(baseAmount);
         System.out.println(newCurrency);
+        System.out.println();
     }
 }
